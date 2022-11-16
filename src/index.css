@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alef&family=Karma&family=Prompt&display=swap');
+
+:root {
+  --background-color: ##edf2f4;
+  --main-color: #2b2d42;
+  --gray: #8d99ae;
+  --hotgray: #edf2f4;
+  --red: rgb(217, 4, 41);
+  --hotred: #ef233c;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  background-image: radial-gradient(#ef233c 0.5px, transparent 0.5px),
+    radial-gradient(#ef233c 0.5px, #f6f6f6 0.5px);
+  background-position: 0 0, 10px 10px;
+  background-size: 20px 20px;
+  opacity: 0.95;
+}
