@@ -1,7 +1,6 @@
 {
   "name": "cocktails",
   "version": "0.1.0",
-  "homepage": "https://volkanungan.github.io/cocktails",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
