@@ -15,6 +15,7 @@ It is responsive.
 
 ### To-do:
 
+- Add search suggestions with throttling
 - Make it accessible
 - Add tests
 
